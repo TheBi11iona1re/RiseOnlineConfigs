@@ -1337,7 +1337,7 @@
       "value": false
     },
     "Slow Down In Air in module.player.breaker.name Module": {
-      "value": true
+      "value": false
     },
     "Movement Correction in module.player.breaker.name Module": {
       "value": "Rise"
